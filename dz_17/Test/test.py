@@ -1,5 +1,5 @@
 import unittest
-from Str.main import String
+from dz_17.Str.main import String
 
 class TestString(unittest.TestCase):
 

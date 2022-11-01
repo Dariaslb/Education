@@ -18,14 +18,3 @@ class String:
             List.append(self.string)
             List.append(other.string)
         return ''.join(List)
-
-
-
-'''ob = String("")
-print(ob.string)
-ob("01")
-print(ob.string)
-ob_2 = String("22")
-print(ob + ob_2)
-print(ob + "333")'''
-
